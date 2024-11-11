@@ -5,18 +5,53 @@
         <PLAT>
             <NOM>Bravas</NOM>
             <DESCRIPCIO>Mitges llunes de patata, fregides amb salsa brava lleugerament picant.</DESCRIPCIO>
-            <PREU>3.50</PREU>
+            <PREU>3.50€</PREU>
         </PLAT>
         <PLAT>
             <NOM>Olives</NOM>
             <DESCRIPCIO>Assortiment d'olives variades.</DESCRIPCIO>
-            <PREU>2.00</PREU>
+            <PREU>2.00€</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Pinxo de truita</NOM>
+            <DESCRIPCIO>Pinxo calent de truita de patates.</DESCRIPCIO>
+            <PREU>4.20€</PREU>
         </PLAT>
         </GRUP>
     <GRUP>
         <NOM>Principals</NOM>
+        <PLAT>
+            <NOM>Risotto de bolets</NOM>
+            <DESCRIPCIO>Un plat reconfortant i saborós.</DESCRIPCIO>
+            <PREU>7.50€</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Pollastre al curry</NOM>
+            <DESCRIPCIO>Un plat exòtic i ple de sabor.</DESCRIPCIO>
+            <PREU>12.30€</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Bacallà a la llauna amb tomàquets i olives</NOM>
+            <DESCRIPCIO>Un clàssic de la cuina catalana.</DESCRIPCIO>
+            <PREU>18.70€</PREU>
+        </PLAT>
         </GRUP>
     <GRUP>
         <NOM>Postres</NOM>
+        <PLAT>
+            <NOM>Crema catalana</NOM>
+            <DESCRIPCIO>Un postres típic de Catalunya.</DESCRIPCIO>
+            <PREU>4.10€</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Pastís de poma</NOM>
+            <DESCRIPCIO>Un postres lleuger i elegant.</DESCRIPCIO>
+            <PREU>6.99€</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Mousse de xocolata</NOM>
+            <DESCRIPCIO>Una escuma de xocolata suau i airejada, perfecta per als amants del xocolata.</DESCRIPCIO>
+            <PREU>5.70€</PREU>
+        </PLAT>
         </GRUP>
 </CARTA>
