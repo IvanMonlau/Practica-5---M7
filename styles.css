@@ -1,0 +1,13 @@
+.carta {
+    margin: 20px;
+}
+
+.grupo {
+    margin-bottom: 20px;
+}
+
+.plato {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 5px;
+}

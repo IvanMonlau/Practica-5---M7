@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CARTA>
+    <GRUP>
+        <NOM>Entrantes</NOM>
+        <PLAT>
+            <NOM>Bravas</NOM>
+            <DESCRIPCIO>Mitges llunes de patata, fregides amb salsa brava lleugerament picant.</DESCRIPCIO>
+            <PREU>3.50</PREU>
+        </PLAT>
+        <PLAT>
+            <NOM>Olives</NOM>
+            <DESCRIPCIO>Assortiment d'olives variades.</DESCRIPCIO>
+            <PREU>2.00</PREU>
+        </PLAT>
+        </GRUP>
+    <GRUP>
+        <NOM>Principals</NOM>
+        </GRUP>
+    <GRUP>
+        <NOM>Postres</NOM>
+        </GRUP>
+</CARTA>
